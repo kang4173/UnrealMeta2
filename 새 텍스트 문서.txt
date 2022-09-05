@@ -1,0 +1,10 @@
+올릴때
+Config 
+Content
+CollisionProject (언리얼 실행파일)
+제외 다 삭제
+
+Content > Collection,Developers 삭제 > StraterContent  > map > 빌트파일 삭제
+ >ThirdPersonBP >map > 빌트파일 삭제
+
+후 커밋 & 푸시
